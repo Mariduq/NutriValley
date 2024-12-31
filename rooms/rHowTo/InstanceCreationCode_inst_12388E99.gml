@@ -1,0 +1,1 @@
+texto= "IR A LA\nIZQUIERDA";
