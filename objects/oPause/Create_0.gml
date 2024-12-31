@@ -1,0 +1,10 @@
+pause = false;
+pauseSurface = noone;
+nutridex = false;
+moreNutridex = false;
+highlighted = 0;
+pageCount = 0;
+size = 0;
+totalSize = 6;
+allPages = 0;
+actualPage = 0;
