@@ -1,0 +1,1 @@
+text = "Fruta con muy poco aporte calórico\nque se compone en un 85% de agua.";

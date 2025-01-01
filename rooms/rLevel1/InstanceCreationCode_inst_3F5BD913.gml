@@ -1,0 +1,1 @@
+text = "Es baja en carbohidratos y aporta mucha\nfibra que ayuda con el estreñimiento y da\nmayor saciedad al comer. Sus vitaminas\ny minerales nos protegen de enfermedades.";

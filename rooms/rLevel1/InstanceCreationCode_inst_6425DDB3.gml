@@ -1,0 +1,1 @@
+text = "Abre el inventario y\nmuéstrame una manzana\npara abrir la puerta";
