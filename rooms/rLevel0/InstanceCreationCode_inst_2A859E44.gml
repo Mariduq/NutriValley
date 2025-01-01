@@ -1,0 +1,1 @@
+text = "¡Muy bien!\nColoca la comida en el bol";

@@ -1,0 +1,1 @@
+text = "Apunta con el mouse y dale\nclick para atacar enemigos";

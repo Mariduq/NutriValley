@@ -1,0 +1,1 @@
+text = "Para saber la información\nde cada comida, revisa la Nutridex\nen el menú de pausa";

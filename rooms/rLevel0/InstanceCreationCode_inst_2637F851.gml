@@ -1,0 +1,1 @@
+text = "Apunta con el mouse y haz\nclick para disparar";

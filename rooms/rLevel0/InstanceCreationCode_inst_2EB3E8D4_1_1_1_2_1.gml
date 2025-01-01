@@ -1,0 +1,1 @@
+text = "Usa estas teclas\npara moverte y saltar";

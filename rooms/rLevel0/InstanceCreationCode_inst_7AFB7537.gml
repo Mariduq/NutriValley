@@ -1,0 +1,1 @@
+text = "Las áreas rojas son peligrosas\n¡Ten cuidado!";

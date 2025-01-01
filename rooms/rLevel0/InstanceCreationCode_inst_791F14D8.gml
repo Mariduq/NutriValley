@@ -1,0 +1,1 @@
+text = "¡Salta mientras\ntocas la pared!";

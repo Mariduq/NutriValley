@@ -1,0 +1,1 @@
+text = "Usa la tecla \"Q\"\npara pausar el juego";

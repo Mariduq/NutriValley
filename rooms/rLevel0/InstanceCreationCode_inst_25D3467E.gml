@@ -1,0 +1,1 @@
+text = "Afortunadamente, las hamburguesas\nno salen de los pilares";

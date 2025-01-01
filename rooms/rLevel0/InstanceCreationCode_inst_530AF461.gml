@@ -1,0 +1,1 @@
+text = "Presiona la tecla \"E\"\npara ver lo que has recogido";

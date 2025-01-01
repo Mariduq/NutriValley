@@ -1,0 +1,1 @@
+text = "Haz click en la zanahoria\nde tu inventario\npara abrir la puerta";
