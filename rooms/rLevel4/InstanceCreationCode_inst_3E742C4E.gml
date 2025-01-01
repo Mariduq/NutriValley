@@ -1,0 +1,1 @@
+text = "Alimento cuyo principal aporte es de energía, también vitaminas\ndel complejo B, hierro y fibra. 300 gramos de arepa aportan\n480 calorías y 8,1 gramos de grasa. Sin embargo,\nno se debe exceder en su consumo."

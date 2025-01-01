@@ -1,0 +1,1 @@
+text = "Usa las flechas para moverte";

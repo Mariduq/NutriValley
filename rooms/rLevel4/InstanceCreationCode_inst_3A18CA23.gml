@@ -1,0 +1,1 @@
+text = "Es fuente de proteínas de excelente calidad, contienen\nminerales, tales como el hierro; vitaminas A, D, B1, B2, B12;\nesta última vitamina nos ayuda a metabolizar proteínas, a formar\nglóbulos rojos y a darle mantenimiento al sistema nervioso."

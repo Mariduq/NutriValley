@@ -1,0 +1,1 @@
+text = "Usa la barra espaciadora\npara atacar enemigos";
