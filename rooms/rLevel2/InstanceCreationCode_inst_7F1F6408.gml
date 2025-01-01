@@ -1,0 +1,1 @@
+text = "Trae consigo minerales y vitaminas\nfundamentales para protegernos de enfermedades.\nLa fibra soluble disminuye en algún\ngrado los niveles de colesterol."

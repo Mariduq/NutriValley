@@ -1,0 +1,1 @@
+text = "Contiene vitaminas y minerales importantes como el fósforo,\nmagnesio, hierro y potasio, los cuales nos protegen de enfermedades.\nContiene agua y fibra y es rico en vitaminas A, B1, B2, B3 y C."

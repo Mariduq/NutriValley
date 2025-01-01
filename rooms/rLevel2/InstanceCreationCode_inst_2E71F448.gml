@@ -1,0 +1,1 @@
+text = "Es rico en nutrientes y enzimas que mejoran la digestión,\nreducen la inflamación y fortalecen el sistema inmunológico,\nprotegiendo de enfermedades con sus vitaminas y minerales."
