@@ -1,0 +1,1 @@
+text = "Contiene vitaminas y minerales importantes para el buen funcionamiento\nde nuestro organismo, siendo rico en carbohidratos, fibra y potasio.\nTambién contiene agua y fibra, que favorece las funciones intestinales."
