@@ -1,0 +1,1 @@
+texto = "Un juego creado por Mariana Duque,\nJosé Martínez y Alexalis Benavides.";

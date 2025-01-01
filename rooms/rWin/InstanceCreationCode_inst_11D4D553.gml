@@ -1,0 +1,1 @@
+numero = string(irandom(2));
